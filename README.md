@@ -16,8 +16,8 @@ To get started with the Flutter Media Player, follow these steps:
    ```sh
    git clone https://github.com/yourusername/flutter-media-player.git
 
-   cd flutter-media-player
+2. cd flutter-media-player
 
-   flutter pub get
+3. flutter pub get
 
-   flutter run
+4. flutter run
